@@ -1,0 +1,16 @@
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.exe
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.deps.json
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.runtimeconfig.json
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.runtimeconfig.dev.json
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.dll
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\ref\HiLo.dll
+C:\Users\prashant\source\repos\HiLo\HiLo\bin\Debug\net5.0\HiLo.pdb
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.csproj.AssemblyReference.cache
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.AssemblyInfoInputs.cache
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.AssemblyInfo.cs
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.csproj.CoreCompileInputs.cache
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.dll
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\ref\HiLo.dll
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.pdb
+C:\Users\prashant\source\repos\HiLo\HiLo\obj\Debug\net5.0\HiLo.genruntimeconfig.cache
